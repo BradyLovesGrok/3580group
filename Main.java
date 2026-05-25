@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-// random comment for pull request
+// random comment for pull request (2)
 public class Main {
     public static void main(String[] args) {
         ArrayList<String> words = new ArrayList<String>();
